@@ -1,0 +1,292 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.material:material:1.8.0] /Users/Spooderman/.gradle/caches/transforms-3/10d5ce692ab2088855f9fea7b0d06306/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Spooderman/.gradle/caches/transforms-3/87addd2f9ef0ee0ee44e96c1653f474c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/5a8c8e0e5cd783993f4d854ce1eac2f2/transformed/camera-view-1.2.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/Spooderman/.gradle/caches/transforms-3/3a89ff8468da195b566daff5d86b2455/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/Spooderman/.gradle/caches/transforms-3/84aca059a4004f02173e8cda25f28e03/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/8a3d96e9c2adf51ab00975a4ef5b9675/transformed/camera-lifecycle-1.2.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-core:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/ed7aa327cfebf4a778d634ce7f3d69d1/transformed/camera-core-1.2.2/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/92b5eb7fa6495b7978644d6afd870eec/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/Spooderman/.gradle/caches/transforms-3/707b970f905cba1fe2bdfd46cf720eb2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/Spooderman/.gradle/caches/transforms-3/cf38fe3c2802d2cac5f463562ecc2885/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/6bba51489b413ace83c53b8323c3c4e4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/f5742c9f167c9de3423e86f68b2fa141/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/0af0479384b1491118a13a6ca1a3b575/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/c96e82496bc0677c508b2b029e0f3e2a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/f474e87931b42691db90afd229063a02/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/6b6cb48cfd30d4cb27a314c4879233f7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/45430eae659bbf14711a5dcec7aa2a82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/fd075310436ced9826145786d8f96d83/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/d7f56ef502d3e707b7dacad6a73ecb5b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/13da52d0bac11d06edd43ed7c52899b1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/8ba1554c352b04084ae25ed9379c6c49/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/6ddb97bb1c28fd9ebba0172251c0164a/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/0574e832f76940327917dce8e1778a2a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/82edfea6d7b5cc49b239b28489b18ee3/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/75ca7db4f26dd97e4ed2a2a770841874/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/dcd0115cb306f25300a8dec488daa2cb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/27942ce17933cf6f7beb206e8b90d6a9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/970beb7e41240f565c05c401cc1525cc/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/5d976382a7af5fa42b6b63a8bff28979/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/Spooderman/.gradle/caches/transforms-3/0536ecbe5124f52f065ff16bc03e3b11/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/54d6cc97c850843fb2073df48c57d36b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/27a6908bfcef269a9c2426c78fd40f1a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/7f5f88422e856bdc432c06a6c434fdca/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/Spooderman/.gradle/caches/transforms-3/2f2c35e15fad91bbb980d97dbe0858f3/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/f73f2b7795a3e3d38f16e2ca7ea0d2d9/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Spooderman/.gradle/caches/transforms-3/3d121897c12f1c2e0c3ce31a7236b976/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/babee2642c585096c98e632164904c6d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/6df9e1ee8c698176d7e469e23187e0f0/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/eed1b305d31597406a2c9c6011c3b6ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/d9207a2be8d96e7f8c7fc2da30262e2f/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/Spooderman/.gradle/caches/transforms-3/9208bd192032555391c11bf5cf84578f/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:6:22-62
+application
+ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:8:5-27:19
+INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [com.google.android.material:material:1.8.0] /Users/Spooderman/.gradle/caches/transforms-3/10d5ce692ab2088855f9fea7b0d06306/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /Users/Spooderman/.gradle/caches/transforms-3/10d5ce692ab2088855f9fea7b0d06306/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Spooderman/.gradle/caches/transforms-3/87addd2f9ef0ee0ee44e96c1653f474c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Spooderman/.gradle/caches/transforms-3/87addd2f9ef0ee0ee44e96c1653f474c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/ed7aa327cfebf4a778d634ce7f3d69d1/transformed/camera-core-1.2.2/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/ed7aa327cfebf4a778d634ce7f3d69d1/transformed/camera-core-1.2.2/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/54d6cc97c850843fb2073df48c57d36b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/54d6cc97c850843fb2073df48c57d36b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/7f5f88422e856bdc432c06a6c434fdca/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/7f5f88422e856bdc432c06a6c434fdca/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:14:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:16:9-52
+	android:dataExtractionRules
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:10:9-65
+activity#com.example.cameraxexample.MainActivity
+ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.8.0] /Users/Spooderman/.gradle/caches/transforms-3/10d5ce692ab2088855f9fea7b0d06306/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /Users/Spooderman/.gradle/caches/transforms-3/10d5ce692ab2088855f9fea7b0d06306/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Spooderman/.gradle/caches/transforms-3/87addd2f9ef0ee0ee44e96c1653f474c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/Spooderman/.gradle/caches/transforms-3/87addd2f9ef0ee0ee44e96c1653f474c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/5a8c8e0e5cd783993f4d854ce1eac2f2/transformed/camera-view-1.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/5a8c8e0e5cd783993f4d854ce1eac2f2/transformed/camera-view-1.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/Spooderman/.gradle/caches/transforms-3/3a89ff8468da195b566daff5d86b2455/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/Spooderman/.gradle/caches/transforms-3/3a89ff8468da195b566daff5d86b2455/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/Spooderman/.gradle/caches/transforms-3/84aca059a4004f02173e8cda25f28e03/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/Spooderman/.gradle/caches/transforms-3/84aca059a4004f02173e8cda25f28e03/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/8a3d96e9c2adf51ab00975a4ef5b9675/transformed/camera-lifecycle-1.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/8a3d96e9c2adf51ab00975a4ef5b9675/transformed/camera-lifecycle-1.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/ed7aa327cfebf4a778d634ce7f3d69d1/transformed/camera-core-1.2.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/ed7aa327cfebf4a778d634ce7f3d69d1/transformed/camera-core-1.2.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/92b5eb7fa6495b7978644d6afd870eec/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/92b5eb7fa6495b7978644d6afd870eec/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/Spooderman/.gradle/caches/transforms-3/707b970f905cba1fe2bdfd46cf720eb2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/Spooderman/.gradle/caches/transforms-3/707b970f905cba1fe2bdfd46cf720eb2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/Spooderman/.gradle/caches/transforms-3/cf38fe3c2802d2cac5f463562ecc2885/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/Spooderman/.gradle/caches/transforms-3/cf38fe3c2802d2cac5f463562ecc2885/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/6bba51489b413ace83c53b8323c3c4e4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/6bba51489b413ace83c53b8323c3c4e4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/f5742c9f167c9de3423e86f68b2fa141/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/f5742c9f167c9de3423e86f68b2fa141/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/0af0479384b1491118a13a6ca1a3b575/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/0af0479384b1491118a13a6ca1a3b575/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/c96e82496bc0677c508b2b029e0f3e2a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/c96e82496bc0677c508b2b029e0f3e2a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/f474e87931b42691db90afd229063a02/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/f474e87931b42691db90afd229063a02/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/6b6cb48cfd30d4cb27a314c4879233f7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/6b6cb48cfd30d4cb27a314c4879233f7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/45430eae659bbf14711a5dcec7aa2a82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/45430eae659bbf14711a5dcec7aa2a82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/fd075310436ced9826145786d8f96d83/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/fd075310436ced9826145786d8f96d83/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/d7f56ef502d3e707b7dacad6a73ecb5b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/d7f56ef502d3e707b7dacad6a73ecb5b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/13da52d0bac11d06edd43ed7c52899b1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/13da52d0bac11d06edd43ed7c52899b1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/8ba1554c352b04084ae25ed9379c6c49/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/8ba1554c352b04084ae25ed9379c6c49/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/6ddb97bb1c28fd9ebba0172251c0164a/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/6ddb97bb1c28fd9ebba0172251c0164a/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/0574e832f76940327917dce8e1778a2a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/0574e832f76940327917dce8e1778a2a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/82edfea6d7b5cc49b239b28489b18ee3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/82edfea6d7b5cc49b239b28489b18ee3/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/75ca7db4f26dd97e4ed2a2a770841874/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/Spooderman/.gradle/caches/transforms-3/75ca7db4f26dd97e4ed2a2a770841874/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/dcd0115cb306f25300a8dec488daa2cb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/dcd0115cb306f25300a8dec488daa2cb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/27942ce17933cf6f7beb206e8b90d6a9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/27942ce17933cf6f7beb206e8b90d6a9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/970beb7e41240f565c05c401cc1525cc/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/970beb7e41240f565c05c401cc1525cc/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/5d976382a7af5fa42b6b63a8bff28979/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/5d976382a7af5fa42b6b63a8bff28979/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/Spooderman/.gradle/caches/transforms-3/0536ecbe5124f52f065ff16bc03e3b11/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/Spooderman/.gradle/caches/transforms-3/0536ecbe5124f52f065ff16bc03e3b11/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/54d6cc97c850843fb2073df48c57d36b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/54d6cc97c850843fb2073df48c57d36b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/27a6908bfcef269a9c2426c78fd40f1a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/27a6908bfcef269a9c2426c78fd40f1a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/7f5f88422e856bdc432c06a6c434fdca/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/7f5f88422e856bdc432c06a6c434fdca/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/Spooderman/.gradle/caches/transforms-3/2f2c35e15fad91bbb980d97dbe0858f3/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/Spooderman/.gradle/caches/transforms-3/2f2c35e15fad91bbb980d97dbe0858f3/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/f73f2b7795a3e3d38f16e2ca7ea0d2d9/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/Spooderman/.gradle/caches/transforms-3/f73f2b7795a3e3d38f16e2ca7ea0d2d9/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Spooderman/.gradle/caches/transforms-3/3d121897c12f1c2e0c3ce31a7236b976/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/Spooderman/.gradle/caches/transforms-3/3d121897c12f1c2e0c3ce31a7236b976/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/babee2642c585096c98e632164904c6d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/babee2642c585096c98e632164904c6d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/6df9e1ee8c698176d7e469e23187e0f0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/6df9e1ee8c698176d7e469e23187e0f0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/eed1b305d31597406a2c9c6011c3b6ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/eed1b305d31597406a2c9c6011c3b6ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/d9207a2be8d96e7f8c7fc2da30262e2f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Spooderman/.gradle/caches/transforms-3/d9207a2be8d96e7f8c7fc2da30262e2f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/Spooderman/.gradle/caches/transforms-3/9208bd192032555391c11bf5cf84578f/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/Spooderman/.gradle/caches/transforms-3/9208bd192032555391c11bf5cf84578f/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Spooderman/Documents/GitHub/gesture-controlled-camera-android-application/app/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/ed7aa327cfebf4a778d634ce7f3d69d1/transformed/camera-core-1.2.2/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/ed7aa327cfebf4a778d634ce7f3d69d1/transformed/camera-core-1.2.2/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.2] /Users/Spooderman/.gradle/caches/transforms-3/1106571da534cf8db394e7282f1cc81b/transformed/camera-camera2-1.2.2/AndroidManifest.xml:31:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/54d6cc97c850843fb2073df48c57d36b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Spooderman/.gradle/caches/transforms-3/54d6cc97c850843fb2073df48c57d36b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/Spooderman/.gradle/caches/transforms-3/28b0d3718afd4f3f82d719b2bf3617f4/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.cameraxexample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.cameraxexample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/Spooderman/.gradle/caches/transforms-3/c919e84cf21a5073ea88f45ff1a29b85/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/Spooderman/.gradle/caches/transforms-3/ca7116fbea5f6fb471862e34cf4b3aee/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
