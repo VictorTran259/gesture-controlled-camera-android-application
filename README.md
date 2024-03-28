@@ -1,1 +1,1 @@
-# gesture-controlled-camera-android-application
+# Cheese! - A gesture-controlled camera application
